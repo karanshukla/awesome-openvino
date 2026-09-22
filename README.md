@@ -112,6 +112,7 @@ MANIPULATION PROGRAM)
 ### AI Audio
 * [OpenVINO™ AI Plugins for Audacity®](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity® such as Music Stem Separation, Noise Suppression, Transcription, and Music Generation.
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
+* [vinoWhisper](https://github.com/karanshukla/vinoWhisper) - Live captions for anything playing on a Linux laptop, run on the Intel NPU through OpenVINO GenAI's `WhisperPipeline`. Fully local, and words are never rewritten once shown.
 * [Sangeet Guru](https://github.com/TABREZ-96/Sangeet_Guru) - A music generation app where users input a music style description to get custom audio tracks.
   
 ### OpenVINO API extentions
